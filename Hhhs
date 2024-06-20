@@ -6,7 +6,7 @@ lib:SetIcon("rbxassetid://18125638659")
 
 -- Lista albă de jucători
 local whitelist = {
-    "Strutmodest8", -- Înlocuiește cu numele jucătorului
+    "", -- Înlocuiește cu numele jucătorului
     "Player2" -- Adaugă mai mulți jucători după nevoie
 }
 
